@@ -1,6 +1,10 @@
-## RandomSearch
+# RandomSearch
 
-### Hackatime stats
+## My projects
+
+Take a look at the things I've made at **[RandomSearch18/projects](https://github.com/RandomSearch18/projects#readme)**!
+
+## Coding hours
 
 Provided by Hack Club's [Hackatime v2](https://hackatime.hackclub.com/) time-tracking tool
 
