@@ -10,6 +10,10 @@ Provided by Hack Club's [Hackatime v2](https://hackatime.hackclub.com/) time-tra
 
 ![Chart of my coding time by language](https://github-readme-stats.hackclub.dev/api/wakatime?username=427&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+stats&layout=compact&cache_seconds=0&langs_count=8)
 
+## Contact me
+
+Email me at [RandomSearch@slevel.xyz](mailto:RandomSearch@slevel.xyz), if you fancy. If it's about a specific project, you can also always open an issue on the repository.
+
 <!--
 **RandomSearch18/RandomSearch18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
